@@ -91,6 +91,13 @@
   }
 }
 
+/*Tamaño icono computrabajo*/
+.icon-img {
+    width: 30px;
+    height: 30px;
+}
+
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
